@@ -26,3 +26,4 @@ https://www.kaggle.com/competitions/titanic/data
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+# titanic-visualization
